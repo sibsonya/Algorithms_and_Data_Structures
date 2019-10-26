@@ -1,2 +1,4 @@
 # Algorithms_and_Data_Structures
-Algorithms and data structures on c++ and python
+## NP-tasks
+1. *vertex_cover_forest.cpp*
+Algorithm for finding the minimum vertex coverage of the forest
